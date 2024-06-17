@@ -1,0 +1,39 @@
+﻿<Properties NuGet.AddPackagesDialog.IncludePrerelease="True" StartupConfiguration="{780ABB85-148E-4F2A-B27C-70DC68A32F5A}|http">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="NomadsNestApp/Controllers/UserController.cs">
+    <Files>
+      <File FileName="NomadsNestApp/Models/User.cs" Line="1" Column="1" />
+      <File FileName="NomadsNestApp/Models/Review.cs" Line="11" Column="55" />
+      <File FileName="NomadsNestApp/Models/Payment.cs" Line="1" Column="1" />
+      <File FileName="NomadsNestApp/Models/Location.cs" Line="1" Column="1" />
+      <File FileName="NomadsNestApp/Models/Image.cs" Line="1" Column="1" />
+      <File FileName="NomadsNestApp/Models/CampingSpot.cs" Line="1" Column="1" />
+      <File FileName="NomadsNestApp/Models/Booking.cs" Line="1" Column="1" />
+      <File FileName="NomadsNestApp/Models/Amenity.cs" Line="1" Column="1" />
+      <File FileName="NomadsNestApp/Controllers/UserController.cs" Line="161" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="NomadsNestApp" expanded="True">
+            <Node name="NomadsNestApp" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="UserController.cs" selected="True" />
+              </Node>
+              <Node name="DataAccess" expanded="True" />
+              <Node name="wwwroot" expanded="True">
+                <Node name="User_images" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.NomadsNestApp PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>

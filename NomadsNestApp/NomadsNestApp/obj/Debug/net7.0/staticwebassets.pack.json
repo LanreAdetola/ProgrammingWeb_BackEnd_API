@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/november/Desktop/Web Exam/backend/NomadsNestApp/NomadsNestApp/wwwroot/.DS_Store",
+      "PackagePath": "staticwebassets/.DS_Store"
+    },
+    {
+      "Id": "/Users/november/Desktop/Web Exam/backend/NomadsNestApp/NomadsNestApp/wwwroot/User_images/.DS_Store",
+      "PackagePath": "staticwebassets/User_images/.DS_Store"
+    },
+    {
+      "Id": "/Users/november/Desktop/Web Exam/backend/NomadsNestApp/NomadsNestApp/wwwroot/User_images/1_h31byjvc.wl1.png",
+      "PackagePath": "staticwebassets/User_images/1_h31byjvc.wl1.png"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.NomadsNestApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.NomadsNestApp.props",
+      "PackagePath": "build\\NomadsNestApp.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.NomadsNestApp.props",
+      "PackagePath": "buildMultiTargeting\\NomadsNestApp.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.NomadsNestApp.props",
+      "PackagePath": "buildTransitive\\NomadsNestApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

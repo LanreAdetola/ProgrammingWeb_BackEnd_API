@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "Hash": "GC58Fxszmr1BNEoA3zTupO19gab5TnCfH9YcP27rf78=",
+  "Source": "NomadsNestApp",
+  "BasePath": "_content/NomadsNestApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "NomadsNestApp/wwwroot",
+      "Source": "NomadsNestApp",
+      "ContentRoot": "/Users/november/Desktop/Web Exam/backend/NomadsNestApp/NomadsNestApp/wwwroot/",
+      "BasePath": "_content/NomadsNestApp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/november/Desktop/Web Exam/backend/NomadsNestApp/NomadsNestApp/wwwroot/.DS_Store",
+      "SourceId": "NomadsNestApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/november/Desktop/Web Exam/backend/NomadsNestApp/NomadsNestApp/wwwroot/",
+      "BasePath": "_content/NomadsNestApp",
+      "RelativePath": ".DS_Store",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/.DS_Store"
+    },
+    {
+      "Identity": "/Users/november/Desktop/Web Exam/backend/NomadsNestApp/NomadsNestApp/wwwroot/User_images/.DS_Store",
+      "SourceId": "NomadsNestApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/november/Desktop/Web Exam/backend/NomadsNestApp/NomadsNestApp/wwwroot/",
+      "BasePath": "_content/NomadsNestApp",
+      "RelativePath": "User_images/.DS_Store",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/User_images/.DS_Store"
+    },
+    {
+      "Identity": "/Users/november/Desktop/Web Exam/backend/NomadsNestApp/NomadsNestApp/wwwroot/User_images/1_h31byjvc.wl1.png",
+      "SourceId": "NomadsNestApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/november/Desktop/Web Exam/backend/NomadsNestApp/NomadsNestApp/wwwroot/",
+      "BasePath": "_content/NomadsNestApp",
+      "RelativePath": "User_images/1_h31byjvc.wl1.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/User_images/1_h31byjvc.wl1.png"
+    }
+  ]
+}

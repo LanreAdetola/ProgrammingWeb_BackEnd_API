@@ -1,0 +1,138 @@
+/Users/november/Desktop/Web Project/backend/NomadsNestApp/NomadsNestApp/bin/Debug/net7.0/appsettings.Development.json
+/Users/november/Desktop/Web Project/backend/NomadsNestApp/NomadsNestApp/bin/Debug/net7.0/appsettings.json
+/Users/november/Desktop/Web Project/backend/NomadsNestApp/NomadsNestApp/bin/Debug/net7.0/NomadsNestApp
+/Users/november/Desktop/Web Project/backend/NomadsNestApp/NomadsNestApp/bin/Debug/net7.0/NomadsNestApp.deps.json
+/Users/november/Desktop/Web Project/backend/NomadsNestApp/NomadsNestApp/bin/Debug/net7.0/NomadsNestApp.runtimeconfig.json
+/Users/november/Desktop/Web Project/backend/NomadsNestApp/NomadsNestApp/bin/Debug/net7.0/NomadsNestApp.dll
+/Users/november/Desktop/Web Project/backend/NomadsNestApp/NomadsNestApp/bin/Debug/net7.0/NomadsNestApp.pdb
+/Users/november/Desktop/Web Project/backend/NomadsNestApp/NomadsNestApp/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/november/Desktop/Web Project/backend/NomadsNestApp/NomadsNestApp/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/november/Desktop/Web Project/backend/NomadsNestApp/NomadsNestApp/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/november/Desktop/Web Project/backend/NomadsNestApp/NomadsNestApp/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/november/Desktop/Web Project/backend/NomadsNestApp/NomadsNestApp/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/november/Desktop/Web Project/backend/NomadsNestApp/NomadsNestApp/obj/Debug/net7.0/NomadsNestApp.csproj.AssemblyReference.cache
+/Users/november/Desktop/Web Project/backend/NomadsNestApp/NomadsNestApp/obj/Debug/net7.0/NomadsNestApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/november/Desktop/Web Project/backend/NomadsNestApp/NomadsNestApp/obj/Debug/net7.0/NomadsNestApp.AssemblyInfoInputs.cache
+/Users/november/Desktop/Web Project/backend/NomadsNestApp/NomadsNestApp/obj/Debug/net7.0/NomadsNestApp.AssemblyInfo.cs
+/Users/november/Desktop/Web Project/backend/NomadsNestApp/NomadsNestApp/obj/Debug/net7.0/NomadsNestApp.csproj.CoreCompileInputs.cache
+/Users/november/Desktop/Web Project/backend/NomadsNestApp/NomadsNestApp/obj/Debug/net7.0/NomadsNestApp.MvcApplicationPartsAssemblyInfo.cs
+/Users/november/Desktop/Web Project/backend/NomadsNestApp/NomadsNestApp/obj/Debug/net7.0/NomadsNestApp.MvcApplicationPartsAssemblyInfo.cache
+/Users/november/Desktop/Web Project/backend/NomadsNestApp/NomadsNestApp/obj/Debug/net7.0/staticwebassets/msbuild.NomadsNestApp.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/november/Desktop/Web Project/backend/NomadsNestApp/NomadsNestApp/obj/Debug/net7.0/staticwebassets/msbuild.build.NomadsNestApp.props
+/Users/november/Desktop/Web Project/backend/NomadsNestApp/NomadsNestApp/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.NomadsNestApp.props
+/Users/november/Desktop/Web Project/backend/NomadsNestApp/NomadsNestApp/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.NomadsNestApp.props
+/Users/november/Desktop/Web Project/backend/NomadsNestApp/NomadsNestApp/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/november/Desktop/Web Project/backend/NomadsNestApp/NomadsNestApp/obj/Debug/net7.0/staticwebassets.build.json
+/Users/november/Desktop/Web Project/backend/NomadsNestApp/NomadsNestApp/obj/Debug/net7.0/staticwebassets.development.json
+/Users/november/Desktop/Web Project/backend/NomadsNestApp/NomadsNestApp/obj/Debug/net7.0/scopedcss/bundle/NomadsNestApp.styles.css
+/Users/november/Desktop/Web Project/backend/NomadsNestApp/NomadsNestApp/obj/Debug/net7.0/NomadsNestApp.csproj.CopyComplete
+/Users/november/Desktop/Web Project/backend/NomadsNestApp/NomadsNestApp/obj/Debug/net7.0/NomadsNestApp.dll
+/Users/november/Desktop/Web Project/backend/NomadsNestApp/NomadsNestApp/obj/Debug/net7.0/refint/NomadsNestApp.dll
+/Users/november/Desktop/Web Project/backend/NomadsNestApp/NomadsNestApp/obj/Debug/net7.0/NomadsNestApp.pdb
+/Users/november/Desktop/Web Project/backend/NomadsNestApp/NomadsNestApp/obj/Debug/net7.0/NomadsNestApp.genruntimeconfig.cache
+/Users/november/Desktop/Web Project/backend/NomadsNestApp/NomadsNestApp/obj/Debug/net7.0/ref/NomadsNestApp.dll
+/Users/november/Desktop/Web Project/backend/NomadsNestApp/NomadsNestApp/bin/Debug/net7.0/LiteDB.dll
+/Users/november/Desktop/Web Project/backend/NomadsNestApp/NomadsNestApp/obj/Debug/net7.0/NomadsNestApp.sourcelink.json
+/Users/november/Documents/project/backend/NomadsNestApp/NomadsNestApp/bin/Debug/net7.0/appsettings.Development.json
+/Users/november/Documents/project/backend/NomadsNestApp/NomadsNestApp/bin/Debug/net7.0/appsettings.json
+/Users/november/Documents/project/backend/NomadsNestApp/NomadsNestApp/bin/Debug/net7.0/NomadsNestApp
+/Users/november/Documents/project/backend/NomadsNestApp/NomadsNestApp/bin/Debug/net7.0/NomadsNestApp.deps.json
+/Users/november/Documents/project/backend/NomadsNestApp/NomadsNestApp/bin/Debug/net7.0/NomadsNestApp.runtimeconfig.json
+/Users/november/Documents/project/backend/NomadsNestApp/NomadsNestApp/bin/Debug/net7.0/NomadsNestApp.dll
+/Users/november/Documents/project/backend/NomadsNestApp/NomadsNestApp/bin/Debug/net7.0/NomadsNestApp.pdb
+/Users/november/Documents/project/backend/NomadsNestApp/NomadsNestApp/bin/Debug/net7.0/LiteDB.dll
+/Users/november/Documents/project/backend/NomadsNestApp/NomadsNestApp/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/november/Documents/project/backend/NomadsNestApp/NomadsNestApp/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/november/Documents/project/backend/NomadsNestApp/NomadsNestApp/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/november/Documents/project/backend/NomadsNestApp/NomadsNestApp/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/november/Documents/project/backend/NomadsNestApp/NomadsNestApp/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/november/Documents/project/backend/NomadsNestApp/NomadsNestApp/obj/Debug/net7.0/NomadsNestApp.csproj.AssemblyReference.cache
+/Users/november/Documents/project/backend/NomadsNestApp/NomadsNestApp/obj/Debug/net7.0/NomadsNestApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/november/Documents/project/backend/NomadsNestApp/NomadsNestApp/obj/Debug/net7.0/NomadsNestApp.AssemblyInfoInputs.cache
+/Users/november/Documents/project/backend/NomadsNestApp/NomadsNestApp/obj/Debug/net7.0/NomadsNestApp.AssemblyInfo.cs
+/Users/november/Documents/project/backend/NomadsNestApp/NomadsNestApp/obj/Debug/net7.0/NomadsNestApp.csproj.CoreCompileInputs.cache
+/Users/november/Documents/project/backend/NomadsNestApp/NomadsNestApp/obj/Debug/net7.0/NomadsNestApp.MvcApplicationPartsAssemblyInfo.cs
+/Users/november/Documents/project/backend/NomadsNestApp/NomadsNestApp/obj/Debug/net7.0/NomadsNestApp.MvcApplicationPartsAssemblyInfo.cache
+/Users/november/Documents/project/backend/NomadsNestApp/NomadsNestApp/obj/Debug/net7.0/staticwebassets.build.json
+/Users/november/Documents/project/backend/NomadsNestApp/NomadsNestApp/obj/Debug/net7.0/staticwebassets.development.json
+/Users/november/Documents/project/backend/NomadsNestApp/NomadsNestApp/obj/Debug/net7.0/staticwebassets/msbuild.NomadsNestApp.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/november/Documents/project/backend/NomadsNestApp/NomadsNestApp/obj/Debug/net7.0/staticwebassets/msbuild.build.NomadsNestApp.props
+/Users/november/Documents/project/backend/NomadsNestApp/NomadsNestApp/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.NomadsNestApp.props
+/Users/november/Documents/project/backend/NomadsNestApp/NomadsNestApp/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.NomadsNestApp.props
+/Users/november/Documents/project/backend/NomadsNestApp/NomadsNestApp/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/november/Documents/project/backend/NomadsNestApp/NomadsNestApp/obj/Debug/net7.0/scopedcss/bundle/NomadsNestApp.styles.css
+/Users/november/Documents/project/backend/NomadsNestApp/NomadsNestApp/obj/Debug/net7.0/NomadsNestApp.csproj.CopyComplete
+/Users/november/Documents/project/backend/NomadsNestApp/NomadsNestApp/obj/Debug/net7.0/NomadsNestApp.dll
+/Users/november/Documents/project/backend/NomadsNestApp/NomadsNestApp/obj/Debug/net7.0/refint/NomadsNestApp.dll
+/Users/november/Documents/project/backend/NomadsNestApp/NomadsNestApp/obj/Debug/net7.0/NomadsNestApp.pdb
+/Users/november/Documents/project/backend/NomadsNestApp/NomadsNestApp/obj/Debug/net7.0/NomadsNestApp.genruntimeconfig.cache
+/Users/november/Documents/project/backend/NomadsNestApp/NomadsNestApp/obj/Debug/net7.0/ref/NomadsNestApp.dll
+/Users/november/Documents/project/backend/NomadsNestApp/NomadsNestApp/bin/Debug/net7.0/Microsoft.DotNet.PlatformAbstractions.dll
+/Users/november/Documents/project/backend/NomadsNestApp/NomadsNestApp/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/november/Documents/project/backend/NomadsNestApp/NomadsNestApp/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/november/Documents/project/backend/NomadsNestApp/NomadsNestApp/bin/Debug/net7.0/BCrypt.Net-Core.dll
+/Users/november/Documents/project/backend/NomadsNestApp/NomadsNestApp/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/november/Documents/project/backend/NomadsNestApp/NomadsNestApp/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/november/Documents/project/backend/NomadsNestApp/NomadsNestApp/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/november/Documents/project/backend/NomadsNestApp/NomadsNestApp/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/Users/november/Documents/project/backend/NomadsNestApp/NomadsNestApp/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/Users/november/Documents/project/backend/NomadsNestApp/NomadsNestApp/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/november/Documents/project/backend/NomadsNestApp/NomadsNestApp/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/Users/november/Documents/project/backend/NomadsNestApp/NomadsNestApp/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/november/Documents/project/backend/NomadsNestApp/NomadsNestApp/bin/Debug/net7.0/System.Security.Permissions.dll
+/Users/november/Documents/project/backend/NomadsNestApp/NomadsNestApp/bin/Debug/net7.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/november/Documents/project/backend/NomadsNestApp/NomadsNestApp/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/november/Documents/project/backend/NomadsNestApp/NomadsNestApp/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/november/Documents/project/backend/NomadsNestApp/NomadsNestApp/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/november/Desktop/Web Exam/backend/NomadsNestApp/NomadsNestApp/bin/Debug/net7.0/appsettings.Development.json
+/Users/november/Desktop/Web Exam/backend/NomadsNestApp/NomadsNestApp/bin/Debug/net7.0/appsettings.json
+/Users/november/Desktop/Web Exam/backend/NomadsNestApp/NomadsNestApp/bin/Debug/net7.0/NomadsNestApp.staticwebassets.runtime.json
+/Users/november/Desktop/Web Exam/backend/NomadsNestApp/NomadsNestApp/bin/Debug/net7.0/NomadsNestApp
+/Users/november/Desktop/Web Exam/backend/NomadsNestApp/NomadsNestApp/bin/Debug/net7.0/NomadsNestApp.deps.json
+/Users/november/Desktop/Web Exam/backend/NomadsNestApp/NomadsNestApp/bin/Debug/net7.0/NomadsNestApp.runtimeconfig.json
+/Users/november/Desktop/Web Exam/backend/NomadsNestApp/NomadsNestApp/bin/Debug/net7.0/NomadsNestApp.dll
+/Users/november/Desktop/Web Exam/backend/NomadsNestApp/NomadsNestApp/bin/Debug/net7.0/NomadsNestApp.pdb
+/Users/november/Desktop/Web Exam/backend/NomadsNestApp/NomadsNestApp/bin/Debug/net7.0/BCrypt.Net-Core.dll
+/Users/november/Desktop/Web Exam/backend/NomadsNestApp/NomadsNestApp/bin/Debug/net7.0/LiteDB.dll
+/Users/november/Desktop/Web Exam/backend/NomadsNestApp/NomadsNestApp/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/november/Desktop/Web Exam/backend/NomadsNestApp/NomadsNestApp/bin/Debug/net7.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/november/Desktop/Web Exam/backend/NomadsNestApp/NomadsNestApp/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/november/Desktop/Web Exam/backend/NomadsNestApp/NomadsNestApp/bin/Debug/net7.0/Microsoft.DotNet.PlatformAbstractions.dll
+/Users/november/Desktop/Web Exam/backend/NomadsNestApp/NomadsNestApp/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/november/Desktop/Web Exam/backend/NomadsNestApp/NomadsNestApp/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/november/Desktop/Web Exam/backend/NomadsNestApp/NomadsNestApp/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/november/Desktop/Web Exam/backend/NomadsNestApp/NomadsNestApp/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/november/Desktop/Web Exam/backend/NomadsNestApp/NomadsNestApp/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/november/Desktop/Web Exam/backend/NomadsNestApp/NomadsNestApp/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/november/Desktop/Web Exam/backend/NomadsNestApp/NomadsNestApp/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/Users/november/Desktop/Web Exam/backend/NomadsNestApp/NomadsNestApp/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/Users/november/Desktop/Web Exam/backend/NomadsNestApp/NomadsNestApp/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/november/Desktop/Web Exam/backend/NomadsNestApp/NomadsNestApp/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/Users/november/Desktop/Web Exam/backend/NomadsNestApp/NomadsNestApp/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/november/Desktop/Web Exam/backend/NomadsNestApp/NomadsNestApp/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/november/Desktop/Web Exam/backend/NomadsNestApp/NomadsNestApp/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/november/Desktop/Web Exam/backend/NomadsNestApp/NomadsNestApp/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/november/Desktop/Web Exam/backend/NomadsNestApp/NomadsNestApp/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/november/Desktop/Web Exam/backend/NomadsNestApp/NomadsNestApp/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/november/Desktop/Web Exam/backend/NomadsNestApp/NomadsNestApp/bin/Debug/net7.0/System.Security.Permissions.dll
+/Users/november/Desktop/Web Exam/backend/NomadsNestApp/NomadsNestApp/obj/Debug/net7.0/NomadsNestApp.csproj.AssemblyReference.cache
+/Users/november/Desktop/Web Exam/backend/NomadsNestApp/NomadsNestApp/obj/Debug/net7.0/NomadsNestApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/november/Desktop/Web Exam/backend/NomadsNestApp/NomadsNestApp/obj/Debug/net7.0/NomadsNestApp.AssemblyInfoInputs.cache
+/Users/november/Desktop/Web Exam/backend/NomadsNestApp/NomadsNestApp/obj/Debug/net7.0/NomadsNestApp.AssemblyInfo.cs
+/Users/november/Desktop/Web Exam/backend/NomadsNestApp/NomadsNestApp/obj/Debug/net7.0/NomadsNestApp.csproj.CoreCompileInputs.cache
+/Users/november/Desktop/Web Exam/backend/NomadsNestApp/NomadsNestApp/obj/Debug/net7.0/NomadsNestApp.MvcApplicationPartsAssemblyInfo.cs
+/Users/november/Desktop/Web Exam/backend/NomadsNestApp/NomadsNestApp/obj/Debug/net7.0/NomadsNestApp.MvcApplicationPartsAssemblyInfo.cache
+/Users/november/Desktop/Web Exam/backend/NomadsNestApp/NomadsNestApp/obj/Debug/net7.0/staticwebassets/msbuild.NomadsNestApp.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/november/Desktop/Web Exam/backend/NomadsNestApp/NomadsNestApp/obj/Debug/net7.0/staticwebassets/msbuild.build.NomadsNestApp.props
+/Users/november/Desktop/Web Exam/backend/NomadsNestApp/NomadsNestApp/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.NomadsNestApp.props
+/Users/november/Desktop/Web Exam/backend/NomadsNestApp/NomadsNestApp/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.NomadsNestApp.props
+/Users/november/Desktop/Web Exam/backend/NomadsNestApp/NomadsNestApp/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/november/Desktop/Web Exam/backend/NomadsNestApp/NomadsNestApp/obj/Debug/net7.0/staticwebassets.build.json
+/Users/november/Desktop/Web Exam/backend/NomadsNestApp/NomadsNestApp/obj/Debug/net7.0/staticwebassets.development.json
+/Users/november/Desktop/Web Exam/backend/NomadsNestApp/NomadsNestApp/obj/Debug/net7.0/scopedcss/bundle/NomadsNestApp.styles.css
+/Users/november/Desktop/Web Exam/backend/NomadsNestApp/NomadsNestApp/obj/Debug/net7.0/NomadsNestApp.csproj.CopyComplete
+/Users/november/Desktop/Web Exam/backend/NomadsNestApp/NomadsNestApp/obj/Debug/net7.0/NomadsNestApp.dll
+/Users/november/Desktop/Web Exam/backend/NomadsNestApp/NomadsNestApp/obj/Debug/net7.0/refint/NomadsNestApp.dll
+/Users/november/Desktop/Web Exam/backend/NomadsNestApp/NomadsNestApp/obj/Debug/net7.0/NomadsNestApp.pdb
+/Users/november/Desktop/Web Exam/backend/NomadsNestApp/NomadsNestApp/obj/Debug/net7.0/NomadsNestApp.genruntimeconfig.cache
+/Users/november/Desktop/Web Exam/backend/NomadsNestApp/NomadsNestApp/obj/Debug/net7.0/ref/NomadsNestApp.dll
