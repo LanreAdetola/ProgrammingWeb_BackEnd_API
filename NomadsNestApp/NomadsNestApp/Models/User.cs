@@ -12,6 +12,8 @@
         public string PhoneNumber { get; set; } = "";
         public string ProfilePicturePath { get; set; } = "";
 
+        public bool IsAdmin { get; set; }
+
 
         public List<Booking> Bookings { get; set; }
         public List<Review> Reviews { get; set; }

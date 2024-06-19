@@ -99,5 +99,19 @@ namespace NomadsNestApp.DataAccess
                 throw;
             }
         }
+
+        // Additional methods as needed for admin features
+        public IEnumerable<User> GetAdminUsers()
+        {
+            try
+            {
+                return _db.GetCollection<User>(_USERS).Find(u => u.IsAdmin).ToList();
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine($"Error retrieving admin users: {ex.Message}");
+                throw;
+            }
+        }
     }
 }

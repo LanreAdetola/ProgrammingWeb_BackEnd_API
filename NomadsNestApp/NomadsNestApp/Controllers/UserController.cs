@@ -5,13 +5,10 @@ using NomadsNestApp.DataAccess;
 using NomadsNestApp.Helpers;
 using NomadsNestApp.Models;
 using NomadsNestApp.Models.Dtos;
-using System.IdentityModel.Tokens.Jwt;
-using System.Linq;
-using System.Security.Claims;
-using System.Text;
-using Microsoft.Extensions.Configuration;
-using Microsoft.IdentityModel.Tokens;
+using System;
+using System.Collections.Generic;
 using System.IO;
+using System.Linq;
 using System.Threading.Tasks;
 
 namespace NomadsNestApp.Controllers
@@ -21,16 +18,14 @@ namespace NomadsNestApp.Controllers
     public class UserController : ControllerBase
     {
         private readonly IUserRepository _userRepository;
-        private readonly IConfiguration _configuration;
         private readonly PasswordHelper _passwordHelper;
         private readonly IWebHostEnvironment _hostingEnvironment;
 
-        public UserController(IUserRepository userRepository, IConfiguration configuration, PasswordHelper passwordHelper, IWebHostEnvironment hostingEnvironment)
+        public UserController(IUserRepository userRepository, PasswordHelper passwordHelper, IWebHostEnvironment hostingEnvironment)
         {
-            _userRepository = userRepository;
-            _configuration = configuration;
-            _passwordHelper = passwordHelper;
-            _hostingEnvironment = hostingEnvironment;
+            _userRepository = userRepository ?? throw new ArgumentNullException(nameof(userRepository));
+            _passwordHelper = passwordHelper ?? throw new ArgumentNullException(nameof(passwordHelper));
+            _hostingEnvironment = hostingEnvironment ?? throw new ArgumentNullException(nameof(hostingEnvironment));
         }
 
         // GET: api/User
@@ -85,6 +80,27 @@ namespace NomadsNestApp.Controllers
             return CreatedAtAction(nameof(Get), new { id = user.Id }, user);
         }
 
+        // POST: api/User/login
+        [HttpPost("login")]
+        public IActionResult Login([FromBody] LoginDto loginDto)
+        {
+            if (loginDto == null || string.IsNullOrEmpty(loginDto.Email) || string.IsNullOrEmpty(loginDto.Password))
+            {
+                return BadRequest(new { message = "Email and password are required" });
+            }
+
+            var user = _userRepository.GetByEmail(loginDto.Email);
+            if (user == null || !_passwordHelper.VerifyPassword(loginDto.Password, user.PasswordHash))
+            {
+                return Unauthorized(new { message = "Invalid email or password" });
+            }
+
+            // I can add my JWT token below
+
+
+            return Ok(new { message = "Login successful" });
+        }
+
         // PUT: api/User/5
         [HttpPut("{id}")]
         public IActionResult Put(int id, [FromBody] User user)
@@ -112,6 +128,7 @@ namespace NomadsNestApp.Controllers
             return NoContent();
         }
 
+        // GET: api/User/emails-passwords
         [HttpGet("emails-passwords")]
         public IActionResult GetAllEmailsAndPasswords()
         {
@@ -131,7 +148,15 @@ namespace NomadsNestApp.Controllers
             return Ok(users);
         }
 
-        // endpoint to handle profile picture upload
+        // GET: api/User/admins
+        [HttpGet("admins")]
+        public IActionResult GetAdminUsers()
+        {
+            var adminUsers = _userRepository.GetAll().Where(u => u.IsAdmin);
+            return Ok(adminUsers);
+        }
+
+        // POST: api/User/{id}/upload-profile-picture
         [HttpPost("{id}/upload-profile-picture")]
         public async Task<IActionResult> UploadProfilePicture(int id, IFormFile file)
         {
@@ -146,8 +171,6 @@ namespace NomadsNestApp.Controllers
                 return NotFound();
             }
 
-
-
             if (!string.IsNullOrEmpty(user.ProfilePicturePath))
             {
                 var existingImagePath = Path.Combine(_hostingEnvironment.WebRootPath, user.ProfilePicturePath);
@@ -156,7 +179,6 @@ namespace NomadsNestApp.Controllers
                     System.IO.File.Delete(existingImagePath);
                 }
             }
-
 
             var uploadsFolder = Path.Combine(_hostingEnvironment.WebRootPath, "User_images");
             if (!Directory.Exists(uploadsFolder))
@@ -168,13 +190,11 @@ namespace NomadsNestApp.Controllers
             var uniqueFileName = $"{user.Id}_{Path.GetRandomFileName()}{Path.GetExtension(file.FileName)}";
             var filePath = Path.Combine(uploadsFolder, uniqueFileName);
 
-            // Save the file
             using (var fileStream = new FileStream(filePath, FileMode.Create))
             {
                 await file.CopyToAsync(fileStream);
             }
 
-            // Update the user's profile picture path
             user.ProfilePicturePath = $"User_images/{uniqueFileName}";
             _userRepository.Update(user);
 

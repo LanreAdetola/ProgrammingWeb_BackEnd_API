@@ -5,7 +5,7 @@ namespace NomadsNestApp.DataAccess
 {
     public interface IUserRepository
     {
-        User GetByEmail(string email);
+        User? GetByEmail(string email);
         User GetById(int id);
         IEnumerable<User> GetAll();
         void Insert(User user);
