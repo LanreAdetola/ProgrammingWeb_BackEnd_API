@@ -1,0 +1,77 @@
+# Suggested Documentation for NomadsNestApp Backend API
+
+## 1. Installation & Prerequisites
+- .NET 7 SDK or later
+- LiteDB (no setup required, file-based)
+- Configure environment variables as needed
+
+## 2. Configuration
+- Edit `appsettings.json` and `appsettings.Development.json` for connection strings and JWT secret
+- Example:
+  ```json
+  {
+    "Jwt": {
+      "Key": "your_secret_key",
+      "Issuer": "http://localhost",
+      "Audience": "http://localhost:5213"
+    }
+  }
+  ```
+
+## 3. Authentication & Security
+- Uses JWT Bearer tokens
+- Obtain token via `POST /api/User/login`
+- Include token in `Authorization: Bearer <token>` header for protected endpoints
+
+## 4. Database Schema
+- Entities: User, CampingSpot, Amenity, Booking, Location, Payment, Review, Image
+- Relationships: Bookings link Users and CampingSpots, Reviews link Users and CampingSpots
+
+## 5. Error Handling
+- Standard HTTP status codes
+- Error responses include message and code
+- Example:
+  ```json
+  {
+    "error": "User not found",
+    "code": 404
+  }
+  ```
+
+## 6. Testing
+- Use `dotnet test` for running unit tests
+- Test data can be seeded in LiteDB
+
+## 7. Deployment
+- Publish with `dotnet publish`
+- Set environment variables for production
+- Host static files from `wwwroot`
+
+## 8. Contributing
+- Fork the repo, create a feature branch, submit pull requests
+- Follow C# coding conventions
+
+## 9. API Examples
+- Register:
+  ```http
+  POST /api/User/register
+  Content-Type: application/json
+  {
+    "username": "testuser",
+    "password": "password123"
+  }
+  ```
+- Login:
+  ```http
+  POST /api/User/login
+  Content-Type: application/json
+  {
+    "username": "testuser",
+    "password": "password123"
+  }
+  ```
+
+## 10. FAQ / Troubleshooting
+- "Cannot connect to database": Check LiteDB file permissions
+- "401 Unauthorized": Ensure JWT token is included and valid
+- "Static files not served": Confirm files are in `wwwroot` and app is running in development/production mode
